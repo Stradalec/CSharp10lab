@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+TestMatrix2/GlobalUsings.cs
+MegaMatrrixTest/UnitTest1.cs
+MegaMatrrixTest/UnitTest1.cs
