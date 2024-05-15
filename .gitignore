@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 TestMatrix2/GlobalUsings.cs
 
+MegaMatrrixTest/UnitTest1.cs
